@@ -1,0 +1,127 @@
+{
+  "products": [
+    {
+      "id": "serum",
+      "name": "Sérum facial hidratante",
+      "brand": "Cuidados diários",
+      "category": "Beleza e cuidados",
+      "description": "Sérum para complementar sua rotina diária de cuidados. Imagem ilustrativa; confirme a apresentação com a loja.",
+      "price": 39.9,
+      "oldPrice": 49.9,
+      "image": "/assets/care.jpg",
+      "stock": 20,
+      "active": true,
+      "featured": true,
+      "restricted": false
+    },
+    {
+      "id": "hidratante",
+      "name": "Hidratante corporal",
+      "brand": "Bem-estar",
+      "category": "Higiene pessoal",
+      "description": "Hidratação e cuidado para o dia a dia. Imagem ilustrativa.",
+      "price": 24.9,
+      "oldPrice": 32.9,
+      "image": "/assets/skin.jpg",
+      "stock": 15,
+      "active": true,
+      "featured": true,
+      "restricted": false
+    },
+    {
+      "id": "skincare",
+      "name": "Kit de cuidados faciais",
+      "brand": "Rotina de cuidado",
+      "category": "Beleza e cuidados",
+      "description": "Uma seleção de cuidados para sua rotina. Imagem ilustrativa.",
+      "price": 69.9,
+      "oldPrice": 89.9,
+      "image": "/assets/beauty.jpg",
+      "stock": 12,
+      "active": true,
+      "featured": true,
+      "restricted": false
+    },
+    {
+      "id": "oleo",
+      "name": "Óleo de cuidado corporal",
+      "brand": "Cuidado pessoal",
+      "category": "Higiene pessoal",
+      "description": "Para o cuidado diário da pele. Imagem ilustrativa.",
+      "price": 29.9,
+      "oldPrice": 36.9,
+      "image": "/assets/care.jpg",
+      "stock": 18,
+      "active": true,
+      "featured": true,
+      "restricted": false
+    },
+    {
+      "id": "creme",
+      "name": "Creme de cuidados diários",
+      "brand": "Rotina de cuidado",
+      "category": "Beleza e cuidados",
+      "description": "Cuidado e praticidade na sua rotina. Imagem ilustrativa.",
+      "price": 34.9,
+      "oldPrice": 0,
+      "image": "/assets/skin.jpg",
+      "stock": 9,
+      "active": true,
+      "featured": false,
+      "restricted": false
+    },
+    {
+      "id": "limpeza",
+      "name": "Kit de limpeza e hidratação",
+      "brand": "Cuidados diários",
+      "category": "Higiene pessoal",
+      "description": "Itens para seus momentos de cuidado. Imagem ilustrativa.",
+      "price": 59.9,
+      "oldPrice": 74.9,
+      "image": "/assets/beauty.jpg",
+      "stock": 10,
+      "active": true,
+      "featured": false,
+      "restricted": false
+    }
+  ],
+  "settings": {
+    "phone": "94992517143",
+    "address": "Av. Santa Ernestina, Capuava, esquina com a Rua C8",
+    "instagram": "drogariabemmelhor",
+    "deliveryFee": 5,
+    "minimum": 10,
+    "deliveryEnabled": false,
+    "hours": "Consulte os horários pelo WhatsApp",
+    "banner": "/assets/hero.png",
+    "banner2": "",
+    "banner3": "",
+    "bannerKinds": [
+      "image",
+      "image",
+      "image"
+    ],
+    "wellnessEnabled": true,
+    "demo": true
+  },
+  "categories": [
+    "Todos os produtos",
+    "Higiene pessoal",
+    "Beleza e cuidados",
+    "Mamãe e bebê",
+    "Vitaminas",
+    "Primeiros socorros",
+    "Medicamentos",
+    "Emagrecimento saudável"
+  ],
+  "statuses": [
+    "Recebido",
+    "Confirmado",
+    "Em separação",
+    "Pronto para retirada",
+    "Saiu para entrega",
+    "Entregue",
+    "Tentativa sem sucesso",
+    "Cancelado"
+  ]
+}
